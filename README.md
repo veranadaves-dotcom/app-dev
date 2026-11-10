@@ -8,3 +8,4 @@ ___
 1. Freedom is worth fighting for.
 2. Friendship and loyalty are important.
 3. Every action has consequences. 
+
